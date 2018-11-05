@@ -1,0 +1,14 @@
+h1 {
+  margin: 0;
+}
+
+.nav-bar {
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+
+.navigation-bar h1, .nav-bar nav {
+  display: inline - block;
+  line-height: 50px;
+  vertical-align: middle;
+}
